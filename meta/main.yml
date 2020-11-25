@@ -1,11 +1,11 @@
 ---
 dependencies:
-  - geerlingguy.php
+  - heremias.php
 
 galaxy_info:
   # See: https://github.com/ansible/galaxy/issues/2393
   # role_name: php-mysql
-  author: geerlingguy
+  author: heremias
   description: PHP MySQL support for Linux.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
